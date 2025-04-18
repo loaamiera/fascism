@@ -1,0 +1,30 @@
+html{
+    background-color: red ;
+}
+h1{
+    float: top ;
+    width: 100% ;
+    text-align: center ;
+}
+body{
+
+    background-color: white ;
+    img{width: 50% ;}
+}
+.row{
+    display: inline-flex ;
+    flex-direction: row ;
+    float: center ;
+    vertical-align: middle ;
+}
+.blue{
+    color: lightblue ;
+    text-shadow: 2px 2px grey;
+}
+#censor{
+    text-decoration: solid ;
+}
+
+#stages{
+    border: solid grey ;
+}
